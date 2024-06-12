@@ -20,6 +20,7 @@
 		A959AA492C1693D0009C935B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A959AA4C2C1693D0009C935B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A959AA4E2C1693D0009C935B /* DaysofSwift1.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DaysofSwift1.entitlements; sourceTree = "<group>"; };
+		A959AA542C17EB6B009C935B /* TestPlayground3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = TestPlayground3.playground; path = ../../TestPlayground3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +53,7 @@
 		A959AA442C1693CF009C935B /* DaysofSwift1 */ = {
 			isa = PBXGroup;
 			children = (
+				A959AA542C17EB6B009C935B /* TestPlayground3.playground */,
 				A959AA452C1693CF009C935B /* DaysofSwift1App.swift */,
 				A959AA472C1693CF009C935B /* ContentView.swift */,
 				A959AA492C1693D0009C935B /* Assets.xcassets */,
