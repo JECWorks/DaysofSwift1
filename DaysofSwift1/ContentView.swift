@@ -67,6 +67,7 @@ struct ContentView: View {
                     Text("App purchasing allowed")
                     // technically don't need == true
                 }
+                
             }
             GroupBox("Switch Statements") {
                 switch forecast {
@@ -80,9 +81,8 @@ struct ContentView: View {
                     Text("School is cancelled.")
                 case.unknown:
                     Text("The forecast generator is broken!")
-                    
                 }
-            }
+            }.background(.blue)
             
         }
         .padding()
